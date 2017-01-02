@@ -35,5 +35,5 @@ __ключи:__
 </br></br></br>
 ### OpenGL
 Ссылки по работе с библиотекой:
-</br>[linuxcenter - Qt/OpenGL](http://www.linuxcenter.ru/lib/books/opengl/_index "OpenGL. Программирование графики в Linux")
+</br>~~[linuxcenter - Qt/OpenGL](http://www.linuxcenter.ru/lib/books/opengl/_index "OpenGL. Программирование графики в Linux")~~
 </br>[Уроки по OpenGL с сайта OGLDev](http://triplepointfive.github.io/ogltutor/ "http://triplepointfive.github.io/ogltutor/")
